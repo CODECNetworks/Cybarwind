@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\backend\authController;
 use App\Http\Controllers\frontend\blogController;
 use App\Http\Controllers\frontend\blogViewController;
 use App\Http\Controllers\frontend\careerController;
@@ -24,27 +25,23 @@ use App\Http\Controllers\Indexcontroller;
 // });
 
 Route::get('/', [homeController::class, 'index'])->name('home');
-
 Route::get('/services', [servicesController::class, 'index'])->name('services');
-
 Route::get('/training', [trainingController::class, 'index'])->name('training');
-
 Route::get('/resources', [resourcesController::class, 'index'])->name('resources');
 Route::get('/resources-view', [resourcesViewController::class, 'index'])->name('resources-view');
-
 Route::get('/blog', [blogController::class, 'index'])->name('blogs');
 Route::get('/blog-view', [blogViewController::class, 'index'])->name('blog-view');
-
 Route::get('/events', [eventController::class, 'index'])->name('events');
 Route::get('/events-view', [eventViewController::class, 'index'])->name('events-view');
-
 Route::get('/testimonials', [testimonialsController::class, 'index'])->name('testimonials');
 Route::get('/career', [careerController::class, 'index'])->name('careers');
 Route::get('/contact', [contactController::class, 'index'])->name('contact');
 Route::get('/cn-insight', [cnInsightController::class, 'index'])->name('cn-insight');
-
 Route::get('/l3-template', [l3templateController::class, 'index'])->name('l3-template');
 
 Route::get('/login', [loginController::class, 'login'])->name('backendlogin');
  Route::get('/dashboard', [dashboardController::class, 'dashboard'])->name('dashboard');
 // Route::get('/add-blog-data', [Indexcontroller::class, 'add_blog_data'])->name('add_blog_data');
+
+
+
