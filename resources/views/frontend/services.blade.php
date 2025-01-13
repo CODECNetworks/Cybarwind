@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html>
+@extends('frontend.layouts.app')
 
-<head>
-   <title>Services </title>
-   <meta name="viewport" content="width=device-width, initial-scale=1">
+@section('title', 'Services')
 
-   @include('frontend.layouts.header-css')
-</head>
+@section('content')
 
 <body class="with-zoom1 case2-header" id="services-page">
    <!-- Header start -->
@@ -1909,13 +1905,18 @@
    <!-- main section end -->
    <div class="ser-h"></div>
    <!--  -->
-   <a href="#services-page" class="scrollToTop"><i class="fa fa-arrow-up"></i></a>
+   {{-- <a href="#services-page" class="scrollToTop"><i class="fa fa-arrow-up"></i></a> --}}
 
    <!--  -->
   
-   @include('frontend.layouts.footer')
+   {{-- @include('frontend.layouts.footer') --}}
   
 </body>
+
+@endsection
+
+@push('scripts')
+
 <!-- Jquery code -->
 
 <script src="assets/js/slider.js"></script>
@@ -2041,9 +2042,9 @@
       initializeCarousel("ser-demo16", "navigation-count15");
    });
 
-
 </script>
+
+@endpush
 
 @include('frontend.layouts.right-menu-js')
 
-</html>

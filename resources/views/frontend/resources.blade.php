@@ -1,15 +1,8 @@
-<!DOCTYPE html>
-<html>
+@extends('frontend.layouts.app')
 
-<head>
-	<title>Resources
-	</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- CSS start -->
-	@include('frontend.layouts.header-css')
-	<link rel="stylesheet" type="text/css" href="assets/css/resources.css">
-</head>
+@section('title', 'Resources')
+
+@section('content')
 
 <body id="main-body">
 	<a id="button"></a>
@@ -854,11 +847,14 @@
 			</div>
 		</div>
 	</section>
-	<a href="#main-body" class="scrollToTop" style="display: block;"><i class="fa fa-arrow-up"></i></a>
+	{{-- <a href="#main-body" class="scrollToTop" style="display: block;"><i class="fa fa-arrow-up"></i></a> --}}
 	
-	@include('frontend.layouts.footer')
+	{{-- @include('frontend.layouts.footer') --}}
 	</div>
 </body>
+@endsection
+
+@push('scripts')
 <!-- Jquery code -->
 <script src="assets/js/slider.js"></script>
 <script type="text/javascript" src="assets/js/common.js?v=1"></script>
@@ -1009,5 +1005,4 @@
 	});
 	});
 </script>
-
-</html>
+@endpush
