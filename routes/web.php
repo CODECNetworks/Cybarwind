@@ -1,5 +1,19 @@
 <?php
 
+use App\Http\Controllers\frontend\blogController;
+use App\Http\Controllers\frontend\blogViewController;
+use App\Http\Controllers\frontend\careerController;
+use App\Http\Controllers\frontend\cnInsightController;
+use App\Http\Controllers\frontend\contactController;
+use App\Http\Controllers\frontend\eventController;
+use App\Http\Controllers\frontend\eventViewController;
+use App\Http\Controllers\frontend\homeController;
+use App\Http\Controllers\frontend\l3templateController;
+use App\Http\Controllers\frontend\resourcesController;
+use App\Http\Controllers\frontend\resourcesViewController;
+use App\Http\Controllers\frontend\servicesController;
+use App\Http\Controllers\frontend\testimonialsController;
+use App\Http\Controllers\frontend\trainingController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Indexcontroller;
 
@@ -7,24 +21,24 @@ use App\Http\Controllers\Indexcontroller;
 //     return view('welcome');
 // });
 
-Route::get('/', [Indexcontroller::class, 'index'])->name('home');
+Route::get('/', [homeController::class, 'index'])->name('home');
 
-Route::get('/services', [Indexcontroller::class, 'services'])->name('services');
+Route::get('/services', [servicesController::class, 'index'])->name('services');
 
-Route::get('/training', [Indexcontroller::class, 'training'])->name('training');
+Route::get('/training', [trainingController::class, 'index'])->name('training');
 
-Route::get('/resources', [Indexcontroller::class, 'resources'])->name('resources');
-Route::get('/resources-view', [Indexcontroller::class, 'resourceview'])->name('resources-view');
+Route::get('/resources', [resourcesController::class, 'index'])->name('resources');
+Route::get('/resources-view', [resourcesViewController::class, 'index'])->name('resources-view');
 
-Route::get('/blog', [Indexcontroller::class, 'blog'])->name('blogs');
-Route::get('/blog-view', [Indexcontroller::class, 'blogview'])->name('blog-view');
+Route::get('/blog', [blogController::class, 'index'])->name('blogs');
+Route::get('/blog-view', [blogViewController::class, 'index'])->name('blog-view');
 
-Route::get('/events', [Indexcontroller::class, 'events'])->name('events');
-Route::get('/events-view', [Indexcontroller::class, 'eventsview'])->name('events-view');
+Route::get('/events', [eventController::class, 'index'])->name('events');
+Route::get('/events-view', [eventViewController::class, 'index'])->name('events-view');
 
-Route::get('/testimonials', [Indexcontroller::class, 'testimonials'])->name('testimonials');
-Route::get('/career', [Indexcontroller::class, 'careers'])->name('careers');
-Route::get('/contact', [Indexcontroller::class, 'contact'])->name('contact');
-Route::get('/cn-insight', [Indexcontroller::class, 'cninsight'])->name('cn-insight');
+Route::get('/testimonials', [testimonialsController::class, 'index'])->name('testimonials');
+Route::get('/career', [careerController::class, 'index'])->name('careers');
+Route::get('/contact', [contactController::class, 'index'])->name('contact');
+Route::get('/cn-insight', [cnInsightController::class, 'index'])->name('cn-insight');
 
-Route::get('/l3-template', [Indexcontroller::class, 'l3template'])->name('l3-template');
+Route::get('/l3-template', [l3templateController::class, 'index'])->name('l3-template');
