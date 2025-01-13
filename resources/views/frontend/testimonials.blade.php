@@ -1,16 +1,8 @@
-<!DOCTYPE html>
-<html>
+@extends('frontend.layouts.app')
 
-  <head>
-    <title>
-      Testimonials
-    </title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- CSS start -->
-    @include('frontend.layouts.header-css')
-    <link rel="stylesheet" type="text/css" href="assets/css/resources.css">
-  </head>
+@section('title', 'Testimonials')
+
+@section('content')
 
   <body id="body-main">
     <a id="button">
@@ -718,19 +710,19 @@
           </div>
         </div>
       </section>
-      <a href="#body-main" class="scrollToTop" style="display: block;">
+      {{-- <a href="#body-main" class="scrollToTop" style="display: block;">
         <i class="fa fa-arrow-up">
         </i>
-      </a>
-      @include('frontend.layouts.footer')
+      </a> --}}
+      {{-- @include('frontend.layouts.footer') --}}
         </div>
   </body>
+
+  @endsection
   <!-- Jquery code -->
-  <script src="assets/js/slider.js"></script>
-	<script type="text/javascript" src="assets/js/common.js?v-1"></script>
-  <script type="text/javascript" src="assets/js/main.js?v=1"></script>
- 	<script type="text/javascript" src="assets/js/mobile-menu.js"></script>
-  
+
+@push('scripts')
+    
   <script type="text/javascript">
     //
     $('.menu-left-right ul li a').on('click',
@@ -926,4 +918,4 @@
     $('.testo-popup-body').scrollTop(0);
   })
 </script>
-</html>
+@endpush  

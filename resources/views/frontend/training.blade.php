@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>Training</title>
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <!-- CSS start -->
-      @include('frontend.layouts.header-css')
+@extends('frontend.layouts.app')
 
-      </head>
+@section('title', 'Training')
+
+@section('content')
       <body class="with-zoom1" id="training-page">
          <!-- Header start -->
          @include('frontend.layouts.training-header')
@@ -6346,11 +6342,15 @@
             <!--box 6 end  -->
          </section>
          <!-- mobile end -->
-         <a href="#training-page" class="scrollToTop"><i class="fa fa-arrow-up"></i></a>
+         {{-- <a href="#training-page" class="scrollToTop"><i class="fa fa-arrow-up"></i></a> --}}
         
-         @include('frontend.layouts.footer')
+         {{-- @include('frontend.layouts.footer') --}}
          
       </body>
+
+      @endsection
+
+      @push('scripts')
       <!-- Jquery code -->
       <script src="assets/js/slider.js"></script>
       <script type="text/javascript" src="assets/js/common.js?v-1"></script>
@@ -6446,5 +6446,7 @@
     initializeCarousel("ser-demo16", "navigation-count15");
 });
       </script>
+
+      @endpush
 @include('frontend.layouts.right-menu-js')
-   </html>
+  
