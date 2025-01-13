@@ -201,7 +201,7 @@
                   </div>
                 </div>
                
-                @include('mobile-components.m-testimonials')
+                @include('frontend.mobile-components.m-testimonials')
               </div>
             </div>
           </div>
@@ -371,7 +371,7 @@
                     <div id="navigation-count1" class="count-nav-box"></div>
                   </div>
                 </div>
-                @include('mobile-components.m-testimonials')
+                @include('frontend.mobile-components.m-testimonials')
               </div>
             </div>
           </div>
@@ -542,7 +542,7 @@
     <div id="navigation-count2" class="count-nav-box"></div>
   </div>
 </div>
-@include('mobile-components.m-testimonials')
+@include('frontend.mobile-components.m-testimonials')
               </div>
             </div>
           </div>
@@ -712,7 +712,7 @@
     <div id="navigation-count3" class="count-nav-box"></div>
   </div>
 </div>
-@include('mobile-components.m-testimonials')
+@include('frontend.mobile-components.m-testimonials')
               </div>
             </div>
           </div>
