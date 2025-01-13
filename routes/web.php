@@ -15,6 +15,8 @@ use App\Http\Controllers\frontend\resourcesViewController;
 use App\Http\Controllers\frontend\servicesController;
 use App\Http\Controllers\frontend\testimonialsController;
 use App\Http\Controllers\frontend\trainingController;
+use App\Http\Controllers\backend\loginController;
+use App\Http\Controllers\backend\dashboardController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Indexcontroller;
 
@@ -37,8 +39,9 @@ Route::get('/contact', [contactController::class, 'index'])->name('contact');
 Route::get('/cn-insight', [cnInsightController::class, 'index'])->name('cn-insight');
 Route::get('/l3-template', [l3templateController::class, 'index'])->name('l3-template');
 
-// BACKEND ROOUTE
+Route::get('/login', [loginController::class, 'login'])->name('backendlogin');
+ Route::get('/dashboard', [dashboardController::class, 'dashboard'])->name('dashboard');
+// Route::get('/add-blog-data', [Indexcontroller::class, 'add_blog_data'])->name('add_blog_data');
 
-Route::get('/login', [authController::class, 'login'])->name('login');
 
 
