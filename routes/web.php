@@ -17,6 +17,8 @@ use App\Http\Controllers\frontend\testimonialsController;
 use App\Http\Controllers\frontend\trainingController;
 use App\Http\Controllers\backend\loginController;
 use App\Http\Controllers\backend\dashboardController;
+use App\Http\Controllers\backend\resourcesCategoriesController;
+use App\Http\Controllers\backend\resourcesController as BackendResourcesController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Indexcontroller;
 
@@ -43,6 +45,24 @@ Route::get('/login', [loginController::class, 'login'])->name('backendlogin');
  Route::get('/dashboard', [dashboardController::class, 'dashboard'])->name('admin.dashboard');
 // Route::get('/add-blog-data', [Indexcontroller::class, 'add_blog_data'])->name('add_blog_data');
 Route::post('/login/user', [loginController::class, 'loginsave'])->name('loginsave');
+
+route::get('/resources-category/list', [resourcesCategoriesController::class, 'index'])->name('resources-category.list');
+route::get('/resources-category/create', [resourcesCategoriesController::class, 'create'])->name('resources-category.create');
+route::post('/resources-category/store', [resourcesCategoriesController::class, 'store'])->name('resources-category.store');
+Route::get('/resources-category/show/{id}', [resourcesCategoriesController::class, 'show'])->name('resources-category.show');
+route::get('/resources-category/edit/{id}', [resourcesCategoriesController::class, 'edit'])->name('resources-category.edit');
+Route::put('resources-category/update/{id}', [resourcesCategoriesController::class, 'update'])->name('resources-category.update');
+Route::delete('resources-category/delete/{id}', [resourcesCategoriesController::class, 'destroy'])->name('resources-category.destroy');
+
+route::get('/resources/list', [BackendResourcesController::class, 'index'])->name('resources.list');
+route::get('/resources/create', [BackendResourcesController::class, 'create'])->name('resources.create');
+route::post('/resources/store', [BackendResourcesController::class, 'store'])->name('resources.store');
+Route::get('/resources/show/{id}', [BackendResourcesController::class, 'show'])->name('resources.show');
+route::get('/resources/edit/{id}', [BackendResourcesController::class, 'edit'])->name('resources.edit');
+Route::put('resources/update/{id}', [BackendResourcesController::class, 'update'])->name('resources.update');
+Route::delete('resources/delete/{id}', [BackendResourcesController::class, 'destroy'])->name('resources.destroy');
+
+
 
 
 

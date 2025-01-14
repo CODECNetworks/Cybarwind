@@ -50,7 +50,7 @@
                     <div class="box-logo">
                         <a href="index.html" id="site-logo-inner">
                             <img class="" id="logo_header" alt=""
-                                {{-- src="{{ asset('backend/assets/images/logo/trendscart.png') }}" --}}
+                                src="{{ asset('backend/assets/images/logo/cybarwind-logo.png') }}"
                                 data-light="images/logo/logo.png" data-dark="images/logo/logo.png">
 
                         </a>
@@ -77,21 +77,45 @@
                                     <a href="javascript:void(0);" class="menu-item-button">
                                         <div><img src="{{ asset('backend\assets\icon\user.png') }}" alt="Example Image"
                                                 style="height:18px"></div>
+                                        <div class="text">Categories</div>
+                                    </a>
+
+                                    <ul class="sub-menu">
+                                        <li class="sub-menu-item">
+                                            <a href="{{ route('resources-category.list') }}" class="">
+                                                <div class="text"> Categories List</div>
+                                            </a>
+                                        </li>
+
+
+                                        <li class="sub-menu-item">
+                                            <a href="{{ route('resources-category.create') }}" class="">
+                                                <div class="text">Add Categories</div>
+                                            </a>
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+                                <li class="menu-item has-children">
+                                    <a href="javascript:void(0);" class="menu-item-button">
+                                        <div><img src="{{ asset('backend\assets\icon\user.png') }}" alt="Example Image"
+                                                style="height:18px"></div>
                                         <div class="text">Resources</div>
                                     </a>
 
                                     <ul class="sub-menu">
                                         <li class="sub-menu-item">
-                                            {{-- <a href="{{ route('users.list') }}" class="">
-                                                <div class="text"> Users List</div>
-                                            </a> --}}
+                                            <a href="{{ route('resources.list') }}" class="">
+                                                <div class="text"> Resources List</div>
+                                            </a>
                                         </li>
 
 
                                         <li class="sub-menu-item">
-                                            {{-- <a href="{{ route('users.create') }}" class="">
-                                                <div class="text">Add Users</div>
-                                            </a> --}}
+                                            <a href="{{ route('resources.create') }}" class="">
+                                                <div class="text">Add Resources</div>
+                                            </a>
                                         </li>
 
                                     </ul>
