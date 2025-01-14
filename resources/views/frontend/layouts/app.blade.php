@@ -23,6 +23,9 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/swiper.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/resources.css') }}">
+    
+    
     <!-- CSS end -->
 
     <script type="text/javascript" src="{{ asset('assets/js/jquery.min.js') }}"></script>
