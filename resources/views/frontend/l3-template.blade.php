@@ -2688,7 +2688,7 @@
       <div id="navigation-count2" class="count-nav-box couter-space"></div>
     </div>
     <!-- mobile content end  -->
-    @include('mobile-components.m-course-features')
+    @include('frontend.mobile-components.m-course-features')
   </section>
 
 
