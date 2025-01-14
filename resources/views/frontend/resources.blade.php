@@ -609,7 +609,7 @@
 										<h3 class="style1"><i class="fa fa-2x fa-file"></i>{{ $category }}</h3>
 									</div>
 									<div class="carousel-wrap">
-										<div class="owl-carousel owl-carousel-{{ strtolower(str_replace(' ', '-', $category)) }} owl-theme">
+										<div class="owl-carousel owl-carousel owl-theme">
 											<!-- Add your dynamic items here -->
 											<div class="item">
 												<a href="{{ route('resources-view') }}" tabindex="-1">
