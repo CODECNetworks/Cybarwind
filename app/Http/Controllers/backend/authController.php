@@ -22,7 +22,7 @@ class authController extends Controller
     }
 
     // Attempt to log in the user with Auth::attempt
-    if (Auth::attempt(['email' => $request->email, 'password' => $request->password], $request->remember)) {
+    if (Auth::attempt(['email' => $request->username, 'password' => $request->password], $request->remember)) {
 
         // Check if the logged-in user is an admin
         if (Auth::user()->role == 1 ) {

@@ -40,8 +40,9 @@ Route::get('/cn-insight', [cnInsightController::class, 'index'])->name('cn-insig
 Route::get('/l3-template', [l3templateController::class, 'index'])->name('l3-template');
 
 Route::get('/login', [loginController::class, 'login'])->name('backendlogin');
- Route::get('/dashboard', [dashboardController::class, 'dashboard'])->name('dashboard');
+ Route::get('/dashboard', [dashboardController::class, 'dashboard'])->name('admin.dashboard');
 // Route::get('/add-blog-data', [Indexcontroller::class, 'add_blog_data'])->name('add_blog_data');
+Route::post('/login/user', [loginController::class, 'loginsave'])->name('loginsave');
 
 
 
