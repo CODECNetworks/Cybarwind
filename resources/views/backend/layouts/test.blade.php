@@ -14,6 +14,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('backend/assets/css/bootstrap.css ') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('backend/assets/css/bootstrap-select.min.css ') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('backend/assets/css/style.css ') }}">
+    {{-- <link rel="stylesheet" href="{{asset('backend/assets/font/fonts.css ') }}"> --}}
     <link rel="stylesheet" href="{{ asset('backend/assets/icon/style.css ') }}">
     <link rel="shortcut icon" href="{{ asset('backend/assets/images/favicon.ico ') }}">
     <link rel="apple-touch-icon-precomposed" href="{{ asset('backend/assets/images/favicon3.png ') }}">
@@ -22,8 +23,6 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('backend/assets/css/custom.css ') }}">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
 
-    <!-- Add Summernote CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.css" rel="stylesheet">
 
     @yield('styles')
     <style>
@@ -34,6 +33,8 @@
             /* Set a max width for the message box */
         }
     </style>
+
+
 </head>
 
 <body class="body">
@@ -471,10 +472,6 @@
     <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 
 
-     <!-- Add Summernote JS -->
-     <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.js"></script>
-
-
     <script>
         $.ajaxSetup({
             headers: {
@@ -542,21 +539,6 @@
             });
         });
     </script>
-
-
- <!-- Initialize Summernote -->
- <script>
-    $(document).ready(function() {
-        $('.summernote').summernote({
-            height: 200, // Set height for the editor
-            minHeight: null, // Minimum height
-            maxHeight: null, // Maximum height
-            width: '100%',   // Set width to 100% of the container
-            fontSize: 18,    // Set the font size to 18px (change as needed)
-
-        });
-    });
-</script>
 
 
 </body>
