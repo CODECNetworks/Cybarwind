@@ -44,7 +44,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             <div class="box-icon pst-listing"></div>
                                              <h4 class="box-title">Certified Network Defender (CND)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -62,7 +62,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             <div class="box-icon pst-listing"></div>
                                              <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -80,7 +80,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             <div class="box-icon pst-listing"></div>
                                              <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -98,7 +98,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             <div class="box-icon pst-listing"></div>
                                              <h4 class="box-title">Certified Ethical Hacker - Masters (CEH Masters)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -116,7 +116,7 @@
                                     <a href="../../Trainings/EC-Council/ECSAV10-Security-Analyst-Penetration-Testing-Training-Certification.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             <div class="box-icon pst-listing"></i></div>
                                              <h4 class="box-title">EC-Council Certified Security Analyst V10</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -134,7 +134,7 @@
                                     <a href="../../Trainings/EC-Council/ECSAV10-Security-Analyst-Penetration-Testing-Training-Certification.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             <div class="box-icon pst-listing"></div>
                                              <h4 class="box-title">Certified Security Analyst - Practical (ECSA Practical)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -152,7 +152,7 @@
                                     <a href="../../Trainings/EC-Council/LPT-Security-Analyst-Penetration-Testing-Training-Certification.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             <div class="box-icon pst-listing"></div>
                                              <h4 class="box-title">Licensed Penetration Tester (LPT)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -170,7 +170,7 @@
                                     <a href="../../Trainings/EC-Council/COMPUTER-HACKING-FORENSIC-CHFI-Training-Certification-Programs.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             <div class="box-icon pst-listing"></div>
                                              <h4 class="box-title">Computer Hacking Forensic investigator</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -188,7 +188,7 @@
                                     <a href="../../Trainings/EC-Council/Certified-SOC-Analyst.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             <div class="box-icon pst-listing"></div>
                                              <h4 class="box-title">Certified SOC Analyst (CSA)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -206,7 +206,7 @@
                                     <a href="../../Trainings/EC-Council/Computer-Cyber-Security-Incident-Response-Management-ECIH-Training-Certification.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Incident Handler (ECIH)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -224,7 +224,7 @@
                                     <a href="../../Trainings/EC-Council/CTIA.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified Threat Intelligence Analyst (CTIA)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -242,7 +242,7 @@
                                     <a href="../../Trainings/EC-Council/Certified-Encryption-Specialist-Training-Certification-ECES.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified Encryption Specialist (ECES)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -260,7 +260,7 @@
                                     <a href="../../Trainings/EC-Council/Certified-Application-Security-Engineer.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Application Security Engineer – Java or .NET</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -278,7 +278,7 @@
                                     <a href="../../Trainings/EC-Council/disaster-recovery-professional-edrp.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Disaster Recovery Professional (EDRP)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -296,7 +296,7 @@
                                     <a href="../../Trainings/EC-Council/CCISO.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified Chief Information Security Professional</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -325,7 +325,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">GD</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -343,7 +343,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">GDPR Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -361,7 +361,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">General Data Protection Regulation (GDPR)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -379,7 +379,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 27001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -397,7 +397,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 27001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -415,7 +415,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 27001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -433,7 +433,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 27005 Risk Manager </h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -451,7 +451,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 27005 Lead Risk Manager </h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -469,7 +469,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 27034 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -487,7 +487,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 27034 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -505,7 +505,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Lead SCADA Security Manager</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -523,7 +523,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Lead Digitalization and Electronic Archiving Manager</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -541,7 +541,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 31000 Risk Manager</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -559,7 +559,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 31000 Lead Risk Manager </h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -577,7 +577,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 31000 Transition</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -595,7 +595,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 37001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -613,7 +613,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 37001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -631,7 +631,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 37001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -649,7 +649,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 22301 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -667,7 +667,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 22301 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -685,7 +685,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 22301 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -703,7 +703,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Disaster Recovery Manager</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -721,7 +721,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Lead Disaster Recovery Managerr</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -739,7 +739,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 38500 IT Governance Manager </h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -757,7 +757,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 38500 Lead IT Governance Manager </h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -775,7 +775,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 20000 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -793,7 +793,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 20000 LEAD IMPLEMENTER</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -811,7 +811,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 20000 LEAD AUDITOR</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -829,7 +829,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 20000:2018 Transition</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -847,7 +847,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 21500 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -865,7 +865,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 21500 Lead Project Management</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -883,7 +883,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 21500 Lead Assessor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -901,7 +901,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 27035 Lead Incident Management</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -919,7 +919,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 28000 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -937,7 +937,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 28000 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -955,7 +955,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">ISO 28000 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -973,7 +973,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Six Sigma Yellow Belt</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -991,7 +991,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Six Sigma Green Belt</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1009,7 +1009,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">ISO 9001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1027,7 +1027,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 9001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1045,7 +1045,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 9001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1063,7 +1063,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 9001:2015 Transition</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1081,7 +1081,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 13485 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1099,7 +1099,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 13485 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1117,7 +1117,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 13485 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1135,7 +1135,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 17025 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1153,7 +1153,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 17025 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1171,7 +1171,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 17025 Lead Assessor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1189,7 +1189,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">AS9100 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1207,7 +1207,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">AS9100 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1225,7 +1225,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">AS9100 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1243,7 +1243,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">IATF 16949 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1261,7 +1261,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">IATF 16949 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1279,7 +1279,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">IATF 16949 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1297,7 +1297,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/TS 29001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1315,7 +1315,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/TS 29001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1333,7 +1333,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/TS 29001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1351,7 +1351,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 50001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1369,7 +1369,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 50001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1387,7 +1387,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 50001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1405,7 +1405,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 50001:2018 Transition</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1423,7 +1423,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 22000 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1441,7 +1441,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 22000 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1459,7 +1459,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 22000 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1477,7 +1477,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 22000:2018 Transition</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1495,7 +1495,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 18001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1513,7 +1513,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 18001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1531,7 +1531,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 18001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1549,7 +1549,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 21001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1567,7 +1567,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 21001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1585,7 +1585,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 21001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1603,7 +1603,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">ISO 26000 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1621,7 +1621,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 26000 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1639,7 +1639,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 26000 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1668,7 +1668,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1686,7 +1686,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">EC-Council Certified Security Analyst V10</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1704,7 +1704,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Licensed Penetration Tester (LPT)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1722,7 +1722,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">PECB Certified Lead Pen Test Professional</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1740,7 +1740,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Penetration Tester (CPT)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1758,7 +1758,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Advance Penetration Testing (APT)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1776,7 +1776,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Web Application penetration Testing (WAPT)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1794,7 +1794,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Bug Bounty Hunter</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1812,7 +1812,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Reverse Engineering and Malware Analysis</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1830,7 +1830,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Exploit Developer Practitioner and Reverse Engineering</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1848,7 +1848,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Secure Code review</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1866,7 +1866,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">IoT Penetration Tester</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1884,7 +1884,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified Cloud Security Professional (CCSP)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1902,7 +1902,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Cloud Security Knowledge (CCSK Plus)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1920,7 +1920,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified SOC Analyst (CSA)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1938,7 +1938,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Threat Intelligence Analyst (CTIA)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1956,7 +1956,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">IoT Penetration Tester</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1974,7 +1974,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified Cloud Security Professional (CCSP)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -1992,7 +1992,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified SOC Analyst (CSA)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2010,7 +2010,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Threat Intelligence Analyst (CTIA)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2028,7 +2028,7 @@
                                     <a href="../../Trainings/SOC-SIEM/Security-Monitoring(SIEM).php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">Security Monitoring, Log Analysis and Event Management</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2046,7 +2046,7 @@
                                     <a href="../../Trainings/SOC-SIEM/SPLUNK-Training.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Splunk User and Administration</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2064,7 +2064,7 @@
                                     <a href="../../Trainings/SOC-SIEM/QRadar.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                       
                                              <h4 class="box-title">IBM QRadar SIEM</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2082,7 +2082,7 @@
                                     <a href="../../Trainings/SOC-SIEM/SPLUNK-Data-Scientist-Analytics.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">SPLUNK for Data Scientist and Analytics</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2100,7 +2100,7 @@
                                     <a href="../../Trainings/SOC-SIEM/SPLUNK-SOC-Cyber-Security-Professionals.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">SPLUNK for SOC & Cyber Security Professionals</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2118,7 +2118,7 @@
                                     <a href="../../Trainings/IT-Security-&-PEN-Testing/Reverse-Engineering-&-Malware-Analysis.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Reverse Engineering and Malware Analysis</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2136,7 +2136,7 @@
                                     <a href="../../Trainings/EC-Council/Computer-Cyber-Security-Incident-Response-Management-ECIH-Training-Certification.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Incident Handler (ECIH)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2154,7 +2154,7 @@
                                     <a href="../../Trainings/EC-Council/COMPUTER-HACKING-FORENSIC-CHFI-Training-Certification-Programs.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Computer Hacking Forensic investigator</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2172,7 +2172,7 @@
                                     <a href="../../Trainings/PECB/PECB-Lead-Computer-Forensics.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">PECB Certified Lead Computer Forensics Examiner</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2190,7 +2190,7 @@
                                     <a href="../../Trainings/Forensic-&-Fraud-Investigation/Digital-Forensic-Investigator.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Digital Forensic Investigator</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2205,10 +2205,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/Forensic-&-Fraud-Investigation/Windows-Forensic-Analysis.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Windows Forensic Analysis and Data Triage </h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2226,7 +2226,7 @@
                                     <a href="../../Trainings/Forensic-&-Fraud-Investigation/Mobile-Forensic-Investigation.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Mobile Forensic Analysis</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2244,7 +2244,7 @@
                                     <a href="../../Trainings/Forensic-&-Fraud-Investigation/Cyber-Crime-&-Evidence-Management.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Cyber Crimes Investigation & Evidence Management</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2262,7 +2262,7 @@
                                     <a href="../../Trainings/Forensic-&-Fraud-Investigation/Cyber-Fraud-&-Security-(Banks).php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Cyber Fraud & Security Management (Banks)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2277,10 +2277,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">Firewall Administration (CIsco, Palo Alto, Checkpoint)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2295,10 +2295,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">UTM Administration (Sophos, Sequirte, Fortigate)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2313,10 +2313,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Proxy Solutions (Bluecoat, Zscaler)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2331,10 +2331,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">End Point Security Solutions (McAfee, Sophos, Symantec, Carbon Black, Cylance)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2349,10 +2349,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">DLP Solutions (McAfee, Symactec, Forcepoint)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2367,10 +2367,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">E-Mail Security (Symantec Messaging Gateway)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2385,10 +2385,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Security Automation (Phantom)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2417,7 +2417,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Disaster Recovery Professional (EDRP)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2435,7 +2435,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Chief Information Security Professional</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2453,7 +2453,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Information Systems Auditor (CISA)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2471,7 +2471,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified Information Security Manager (CISM)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2489,7 +2489,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified in Risk and Information Systems Control (CRISC)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2507,7 +2507,7 @@
                                     <a href="../../Trainings/CGEIT-Certified-Governance-Enterprise-IT.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified in the Governance of Enterprise IT (CGEIT)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2525,7 +2525,7 @@
                                     <a href="../../Trainings/ISC2CISSP.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Information Systems Security Professional (CISSP)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2543,7 +2543,7 @@
                                     <a href="../../Trainings/PECB/iso-iec-27001-foundation.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 27001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2561,7 +2561,7 @@
                                     <a href="../../Trainings/PECB/ISOIEC-27001.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 27001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2579,7 +2579,7 @@
                                     <a href="../../Trainings/PECB/ISOIEC-27001.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 27001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2597,7 +2597,7 @@
                                     <a href="../../Trainings/PECB/ISOIEC-27005-Risk-Manager.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 27005 Risk Manager </h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2615,7 +2615,7 @@
                                     <a href="../../Trainings/PECB/ISOIEC-27005-Lead-Risk-Manager.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 27005 Lead Risk Manager</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2633,7 +2633,7 @@
                                     <a href="../../Trainings/PECB/iso-iec-38500-it-governance.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">ISO/IEC 38500 IT Corporate Governance Manager</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2651,7 +2651,7 @@
                                     <a href="../../Trainings/PECB/iso-iec-38500-Lead-it-governance.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">ISO/IEC 38500 Lead IT Governance Manager </h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2669,7 +2669,7 @@
                                     <a href="../../Trainings/PECB/ISO-22301-Foundation.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 22301 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2687,7 +2687,7 @@
                                     <a href="../../Trainings/PECB/ISOIEC-22301.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 22301 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2705,7 +2705,7 @@
                                     <a href="../../Trainings/PECB/ISOIEC-22301.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">ISO 22301 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2723,7 +2723,7 @@
                                     <a href="../../Trainings/PECB/Disaster-Recovery-Manager.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">Disaster Recovery Manager</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2741,7 +2741,7 @@
                                     <a href="../../Trainings/PECB/Lead-Disaster-Recovery-Manager.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                         
                                              <h4 class="box-title">Lead Disaster Recovery Manager</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2759,7 +2759,7 @@
                                     <a href="../../Trainings/PECB/gdpr-introduction.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">GDPR Introduction</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2777,7 +2777,7 @@
                                     <a href="thirdlevel.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">GDPR Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2795,7 +2795,7 @@
                                     <a href="../../Trainings/PECB/General-Data-Protection-Regulation.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">General Data Protection Regulation (GDPR)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2813,7 +2813,7 @@
                                     <a href="../../Trainings/PECB/ISOIEC-29100-Lead-Privacy-Implementer.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 29100 Lead Privacy Implementer (CLPI)</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2831,7 +2831,7 @@
                                     <a href="../../Trainings/PECB/Lead-SCADA-Security-Manager.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">Lead SCADA Security Manager</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2849,7 +2849,7 @@
                                     <a href="../../Trainings/IT-Security-&-PEN-Testing/HIPAA-Privacy-Security.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">HIPAA Privacy and Security Awareness Program</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2867,7 +2867,7 @@
                                     <a href="../../Trainings/IT-Security-&-PEN-Testing/PCI-DSS-Awareness.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                          
                                              <h4 class="box-title">PCI-DSS Awareness Program</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2896,7 +2896,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">Big data hadoop Certification training </h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2914,7 +2914,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">Apache spark and scala certification training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2932,7 +2932,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">python Spark certification Using pyspark</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2950,7 +2950,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Splunk Training & Certification- power user & admin</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2968,7 +2968,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Apache kafka certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -2983,10 +2983,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Hadoop Administration Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3001,10 +3001,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ELK Starck Training & Crtification</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3019,10 +3019,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                              
                                              <h4 class="box-title">Comperhensive Hive Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3037,10 +3037,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Mastering Apache Ambari Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3055,10 +3055,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">MapReduce Design Patterns Certifiacation Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3073,10 +3073,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Apache Solr Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3091,10 +3091,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Comperhensive HBase Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3109,10 +3109,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Comperhensive Pig Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3127,10 +3127,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Comperhensive MapReduce Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3145,10 +3145,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Apache Srorm Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3163,10 +3163,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Tableau Training & Certification</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3181,10 +3181,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Microsoft Power BI Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3199,10 +3199,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">MicroStrategy 10 Power BI Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3217,10 +3217,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Advanced MS Excel 2016 Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3235,10 +3235,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Pentaho BI Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3253,10 +3253,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">QlikView Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3271,10 +3271,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">Microsoft BI Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3289,10 +3289,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Microsoft Excel VBA Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3310,7 +3310,7 @@
                                     <a href="../../Trainings/Big-Data-Analytics/Data-Science-with-Python.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Python Certification Training For Data Science</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3328,7 +3328,7 @@
                                     <a href="../../Trainings/Application-Development/Python-Programming-Training-Course.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Pythn Programming Certification Course</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3346,7 +3346,7 @@
                                     <a href="../../Trainings/Big-Data-Analytics/Machine-Learning.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Machine Learining Certification Training Using Python</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3361,10 +3361,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/Big-Data-Analytics/Data-Analytic-with-R.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Data Analytics with R Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3379,10 +3379,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Data Science Certification Course Using R</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3397,10 +3397,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">SAS Training and Certification</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3415,10 +3415,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Advanced Predictive Modelling in R Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3433,10 +3433,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Statidtics Essentials For Analytics</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3451,10 +3451,9 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
-                                          <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                         
                                              <h4 class="box-title">Decision Tree Modeling Using R Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3469,10 +3468,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Analytics For Retail Banks</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3487,10 +3486,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">AI & Deep Learning with TensorFlow</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3505,10 +3504,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Natural Language Processing with Python Certification Course</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3523,10 +3522,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Machine Learning with Mahout Crttification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3541,10 +3540,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Reinforcement Learning</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3559,10 +3558,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Graphical Models Certification Trianing</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3591,7 +3590,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Robotic Process Automation Training using UiPath</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3609,7 +3608,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">RPA Using Automation Anywhere</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3627,7 +3626,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Blockchain and Etherum Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3645,7 +3644,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Ethereum Developerx</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3663,7 +3662,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified IoT Professional</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3681,7 +3680,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified Blockchain Professional</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3699,7 +3698,7 @@
                                     <a href="">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Informatica Training & Certification</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3714,10 +3713,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Talend for Data Integration and Big Data</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3732,10 +3731,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Data Warehousing and BI Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3750,10 +3749,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Data Warehousing Certification Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3768,10 +3767,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Digitalization and Electronic Archiving Manager</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3800,7 +3799,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 20000 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3818,7 +3817,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 20000 LEAD IMPLEMENTER</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3836,7 +3835,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 20000 LEAD AUDITOR</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3854,7 +3853,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 20000:2018 Transition</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3872,7 +3871,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 21500 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3890,7 +3889,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 21500 Lead Project Management</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3908,7 +3907,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 21500 Lead Assessor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3923,10 +3922,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/Six-Sigma-Yellow-Belt.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Six Sigma Yellow Belt</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3941,10 +3940,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/Six-Sigma-Green-Belt.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Six Sigma Green Belt</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3959,10 +3958,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified Scrum Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3977,10 +3976,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Certified Scrum Professional</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -3995,10 +3994,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified Scrum Master</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4013,10 +4012,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Agile Scrum Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4031,10 +4030,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">Agile Scrum Master</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4049,10 +4048,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Agile Scrum Product Owner</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4081,7 +4080,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 9001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4099,7 +4098,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 9001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4117,7 +4116,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 9001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4135,7 +4134,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 9001:2015 Transition</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4153,7 +4152,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 13485 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4171,7 +4170,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 13485 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4186,10 +4185,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/ISO-13485-Lead-Auditor.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 13485 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4204,10 +4203,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/ISOIEC-17025-Foundation.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 17025 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4222,10 +4221,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/iso-iec-17025.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/IEC 17025 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4240,10 +4239,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/iso-iec-17025.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/IEC 17025 Lead Assessor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4258,10 +4257,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/AS9100-Foundation.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">AS9100 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4276,10 +4275,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/AS9100-Aerospace.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">AS9100 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4294,10 +4293,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/AS9100-Aerospace.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">AS9100 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4312,10 +4311,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/IATF-16949-Foundation.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">IATF 16949 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4330,10 +4329,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/iatf-16949.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">IATF 16949 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4348,10 +4347,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/iatf-16949.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">IATF 16949 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4366,10 +4365,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/ISO-TS-29001-Foundation.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/TS 29001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4384,10 +4383,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/PECB/ISO-TS-29001-Lead-Implementer.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO/TS 29001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4405,7 +4404,7 @@
                                     <a href="../../Trainings/PECB/ISO-TS-29001-Lead-Auditor.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO/TS 29001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4423,7 +4422,7 @@
                                     <a href="../../Trainings/PECB/ISO 50001 Foundation.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 50001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4441,7 +4440,7 @@
                                     <a href="../../Trainings/PECB/ISO-50001-Lead-Implementer.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 50001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4459,7 +4458,7 @@
                                     <a href="../../Trainings/PECB/ISO-50001-Lead-Auditor.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 50001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4477,7 +4476,7 @@
                                     <a href="../../Trainings/PECB/ISO-50001-2018-Transition.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 50001:2018 Transition</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4495,7 +4494,7 @@
                                     <a href="../../Trainings/PECB/ISO-22000-Foundation.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 22000 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4513,7 +4512,7 @@
                                     <a href="../../Trainings/PECB/ISO-22000-Lead-Implementer.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 22000 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4531,7 +4530,7 @@
                                     <a href="../../Trainings/PECB/ISO-22000-Lead-Auditor.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 22000 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4549,7 +4548,7 @@
                                     <a href="../../Trainings/PECB/ISO-22000-2018-Transition.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">ISO 22000:2018 Transition</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4564,10 +4563,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">OHSAS 18001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4585,7 +4584,7 @@
                                     <a href="../../Trainings/PECB/ohsas.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 18001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4603,7 +4602,7 @@
                                     <a href="../../Trainings/PECB/ohsas.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 18001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4621,7 +4620,7 @@
                                     <a href="../../Trainings/PECB/ISO-21001-Foundation.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 21001 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4639,7 +4638,7 @@
                                     <a href="../../Trainings/PECB/ISO-21001-Lead-Implementer.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 21001 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4657,7 +4656,7 @@
                                     <a href="../../Trainings/PECB/ISO-21001-Lead-Auditor.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 21001 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4675,7 +4674,7 @@
                                     <a href="../../Trainings/PECB/ISO-26000-Foundation.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 26000 Foundation</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4693,7 +4692,7 @@
                                     <a href="../../Trainings/PECB/ISO-26000-Lead-Implementer.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">ISO 26000 Lead Implementer</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4711,7 +4710,7 @@
                                     <a href="../../Trainings/PECB/ISO-26000-Lead-Auditor.php">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">ISO 26000 Lead Auditor</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4740,8 +4739,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                             <h4 class="box-title">Windows Server Administration Training</h4>
+                                          <h4 class="box-title"> Windows Server Administration Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
                                              <div class="box-content-p">
@@ -4758,7 +4756,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Redhat Server Administration Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4776,7 +4774,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Citrix Xenserver</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4794,7 +4792,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+
                                              <h4 class="box-title">AWS Solution Architech Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4812,7 +4810,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">AWS Development Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4830,7 +4828,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Azure Solution Architech Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4848,7 +4846,7 @@
                                     <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Azure Adminsitrator Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4863,10 +4861,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Azure Developer Associate Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4881,10 +4879,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Openstack Administration Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4899,10 +4897,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Google Cloud Architect Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4917,10 +4915,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Google Cloud Developer Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4935,10 +4933,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Saleforce Administration Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4953,10 +4951,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Saleforce Developer Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4971,10 +4969,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="../../Trainings/Server-Storage/Certified-DevOps-Professional.php">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Certified DevOps Professional</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -4989,10 +4987,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                            
                                              <h4 class="box-title">Kubernetes Administrator Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -5007,10 +5005,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Docker Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -5025,10 +5023,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">AWS DevOps Engineer Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -5043,10 +5041,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                             
                                              <h4 class="box-title">Google Cloud DevOps Engineer Training</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -5061,10 +5059,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">Puppet Foundation Training Course</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -5079,10 +5077,10 @@
                                     </a>
                                  </div>
                                  <div class="col-md-4 pdg-rght-0 mrgn-btm-iconbx">
-                                    <a href="#">
+                                    <a href="{{route('l3-template')}}">
                                        <div class="iconbox">
                                           <div class="box-header">
-                                             <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                           
                                              <h4 class="box-title">Salt Foundation Training Course</h4>
                                           </div>
                                           <div class="box-content" id="clr-learn">
@@ -5127,7 +5125,7 @@
                               <a href="{{route('l3-template')}}">
                                  <div class="iconbox">
                                     <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                      
                                        <h4 class="box-title">Certified Network Defender (CND)</h4>
                                     </div>
                                     <div class="box-content" id="clr-learn">
@@ -5148,7 +5146,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5169,7 +5167,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5205,7 +5203,7 @@
                               <a href="{{route('l3-template')}}">
                                  <div class="iconbox">
                                     <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                      
                                        <h4 class="box-title">Certified Network Defender (CND)</h4>
                                     </div>
                                     <div class="box-content" id="clr-learn">
@@ -5226,7 +5224,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5247,7 +5245,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5285,7 +5283,7 @@
                               <a href="{{route('l3-template')}}">
                                  <div class="iconbox">
                                     <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                       
                                        <h4 class="box-title">Certified Network Defender (CND)</h4>
                                     </div>
                                     <div class="box-content" id="clr-learn">
@@ -5306,7 +5304,7 @@
                            <a href="{{route('l3-template')}}p">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5327,7 +5325,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5358,7 +5356,7 @@
                               <a href="{{route('l3-template')}}">
                                  <div class="iconbox">
                                     <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                       
                                        <h4 class="box-title">Certified Network Defender (CND)</h4>
                                     </div>
                                     <div class="box-content" id="clr-learn">
@@ -5379,7 +5377,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                   
                                     <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5400,7 +5398,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5438,7 +5436,7 @@
                               <a href="{{route('l3-template')}}">
                                  <div class="iconbox">
                                     <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                       
                                        <h4 class="box-title">Certified Network Defender (CND)</h4>
                                     </div>
                                     <div class="box-content" id="clr-learn">
@@ -5459,7 +5457,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                   
                                     <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5480,7 +5478,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                   
                                     <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5511,7 +5509,7 @@
                               <a href="{{route('l3-template')}}">
                                  <div class="iconbox">
                                     <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                       
                                        <h4 class="box-title">Certified Network Defender (CND)</h4>
                                     </div>
                                     <div class="box-content" id="clr-learn">
@@ -5532,7 +5530,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                  
                                     <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5553,7 +5551,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5591,7 +5589,7 @@
                               <a href="{{route('l3-template')}}">
                                  <div class="iconbox">
                                     <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                     
                                        <h4 class="box-title">Certified Network Defender (CND)</h4>
                                     </div>
                                     <div class="box-content" id="clr-learn">
@@ -5612,7 +5610,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5633,7 +5631,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                   
                                     <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5664,7 +5662,7 @@
                               <a href="{{route('l3-template')}}">
                                  <div class="iconbox">
                                     <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                     
                                        <h4 class="box-title">Certified Network Defender (CND)</h4>
                                     </div>
                                     <div class="box-content" id="clr-learn">
@@ -5685,7 +5683,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5706,7 +5704,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5744,7 +5742,7 @@
                               <a href="{{route('l3-template')}}">
                                  <div class="iconbox">
                                     <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                      
                                        <h4 class="box-title">Certified Network Defender (CND)</h4>
                                     </div>
                                     <div class="box-content" id="clr-learn">
@@ -5765,7 +5763,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                   
                                     <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5786,7 +5784,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                   
                                     <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5817,7 +5815,7 @@
                               <a href="{{route('l3-template')}}>
                                  <div class="iconbox">
                                     <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                       
                                        <h4 class="box-title">Certified Network Defender (CND)</h4>
                                     </div>
                                     <div class="box-content" id="clr-learn">
@@ -5838,7 +5836,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                    
                                     <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5859,7 +5857,7 @@
                            <a href="{{route('l3-template')}}">
                               <div class="iconbox">
                                  <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
+                                   
                                     <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
                                  </div>
                                  <div class="box-content" id="clr-learn">
@@ -5882,463 +5880,13 @@
             </div>
             <!--box 5 end  -->
             <!-- box 6 start  -->
-            <div class="m-container ser-bg" id="m-dt">
-               <div class="m-title m-bg5">
-                  <h3>Digital Transformation</h3>
-               </div>
-               <!-- slider 1  -->
-               <div class="ser-slider1">
-                  <!-- box 1 start -->
-                  <div id="navigation-count10" class="count-nav-box couter-space"></div>
-                  <div id="ser-demo11" class="owl-carousel owl-theme indu-moblie">
-                     <!--  -->
-                     <div class="item">
-                          <div class="mrgn-btm-iconbx">
-                              <a href="{{route('l3-template')}}">
-                                 <div class="iconbox">
-                                    <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                       <h4 class="box-title">Certified Network Defender (CND)</h4>
-                                    </div>
-                                    <div class="box-content" id="clr-learn">
-                                       <div class="box-content-p">
-                                          <p>Certified Network Defender (CND) is a vendor-neutral, hands-on, instructor-led comprehensive network security certification training program. It is a skills-based, lab intensive program based</p>
-                                       </div>
-                                       <span class="box-readmore">
-                                          Learn More
-                                       </span>
-                                    </div>
-                                 </div>
-                              </a>
-                           </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>C|EH Practical is a six-hour, rigorous exam that requires you to demonstrate the application of ethical hacking techniques such as threat vector identification, network scanning, OS detection, vulnerability analysis, system hacking, web app hacking, etc</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                     </div>
-                  </div>
-                     <!--  -->
-                  </div>
-                  <!-- box 1 end -->
-               </div>
-               <!-- slider 1 end -->
-               <!-- slider 2  -->
-               <div class="ser-slider2">
-                  <!-- box 1 start -->
-                  <div id="navigation-count11" class="count-nav-box couter-space"></div>
-                  <div id="ser-demo12" class="owl-carousel owl-theme indu-moblie">
-                     <!--  -->
-                     <div class="item">
-                          <div class="mrgn-btm-iconbx">
-                              <a href="{{route('l3-template')}}">
-                                 <div class="iconbox">
-                                    <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                       <h4 class="box-title">Certified Network Defender (CND)</h4>
-                                    </div>
-                                    <div class="box-content" id="clr-learn">
-                                       <div class="box-content-p">
-                                          <p>Certified Network Defender (CND) is a vendor-neutral, hands-on, instructor-led comprehensive network security certification training program. It is a skills-based, lab intensive program based</p>
-                                       </div>
-                                       <span class="box-readmore">
-                                          Learn More
-                                       </span>
-                                    </div>
-                                 </div>
-                              </a>
-                           </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>C|EH Practical is a six-hour, rigorous exam that requires you to demonstrate the application of ethical hacking techniques such as threat vector identification, network scanning, OS detection, vulnerability analysis, system hacking, web app hacking, etc</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                     </div>
-                  </div>
-                     <!--  -->
-                  </div>
-                  <!-- box 1 end -->
-               </div>
-               <!-- slider 2 end -->
-            </div>
+            
             <!--box 6 end  -->
             <!-- box 5 start  -->
-            <div class="m-container" id="m-sm">
-               <div class="m-title m-bg6">
-                  <h3>IT Operation, Project and Service Management</h3>
-               </div>
-               <!-- slider 1  -->
-               <div class="ser-slider1">
-                  <div id="navigation-count12" class="count-nav-box couter-space"></div>
-                  <!-- box 1 start -->
-                  <div id="ser-demo13" class="owl-carousel owl-theme indu-moblie">
-                     <!--  -->
-                     <div class="item">
-                          <div class="mrgn-btm-iconbx">
-                              <a href="{{route('l3-template')}}">
-                                 <div class="iconbox">
-                                    <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                       <h4 class="box-title">Certified Network Defender (CND)</h4>
-                                    </div>
-                                    <div class="box-content" id="clr-learn">
-                                       <div class="box-content-p">
-                                          <p>Certified Network Defender (CND) is a vendor-neutral, hands-on, instructor-led comprehensive network security certification training program. It is a skills-based, lab intensive program based</p>
-                                       </div>
-                                       <span class="box-readmore">
-                                          Learn More
-                                       </span>
-                                    </div>
-                                 </div>
-                              </a>
-                           </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>C|EH Practical is a six-hour, rigorous exam that requires you to demonstrate the application of ethical hacking techniques such as threat vector identification, network scanning, OS detection, vulnerability analysis, system hacking, web app hacking, etc</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                     </div>
-                  </div>
-                     <!--  -->
-                  </div>
-                  <!-- box 1 end -->
-               </div>
-               <!-- slider 1 end -->
-               <!-- slider 2  -->
-               <div class="ser-slider2">
-                  <!-- box 1 start -->
-                  <div id="navigation-count13" class="count-nav-box couter-space"></div>
-                  <div id="ser-demo14" class="owl-carousel owl-theme indu-moblie">
-                     <!--  -->
-                      <div class="item">
-                          <div class="mrgn-btm-iconbx">
-                              <a href="{{route('l3-template')}}">
-                                 <div class="iconbox">
-                                    <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                       <h4 class="box-title">Certified Network Defender (CND)</h4>
-                                    </div>
-                                    <div class="box-content" id="clr-learn">
-                                       <div class="box-content-p">
-                                          <p>Certified Network Defender (CND) is a vendor-neutral, hands-on, instructor-led comprehensive network security certification training program. It is a skills-based, lab intensive program based</p>
-                                       </div>
-                                       <span class="box-readmore">
-                                          Learn More
-                                       </span>
-                                    </div>
-                                 </div>
-                              </a>
-                           </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>C|EH Practical is a six-hour, rigorous exam that requires you to demonstrate the application of ethical hacking techniques such as threat vector identification, network scanning, OS detection, vulnerability analysis, system hacking, web app hacking, etc</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                     </div>
-                  </div>
-                     <!--  -->
-                  </div>
-                  <!-- box 1 end -->
-               </div>
-               <!-- slider 23 end -->
-            </div>
+           
             <!--box 5 end  -->
             <!-- box 6 start  -->
-            <div class="m-container ser-bg" id="m-server">
-               <div class="m-title m-bg7">
-                  <h3>Industry Specific Quality Management Programs</h3>
-               </div>
-               <!-- slider 1  -->
-               <div class="ser-slider1">
-                  <!-- box 1 start -->
-                  <div id="navigation-count14" class="count-nav-box couter-space"></div>
-                  <div id="ser-demo15" class="owl-carousel owl-theme indu-moblie">
-                     <!--  -->
-                     <div class="item">
-                          <div class="mrgn-btm-iconbx">
-                              <a href="{{route('l3-template')}}">
-                                 <div class="iconbox">
-                                    <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                       <h4 class="box-title">Certified Network Defender (CND)</h4>
-                                    </div>
-                                    <div class="box-content" id="clr-learn">
-                                       <div class="box-content-p">
-                                          <p>Certified Network Defender (CND) is a vendor-neutral, hands-on, instructor-led comprehensive network security certification training program. It is a skills-based, lab intensive program based</p>
-                                       </div>
-                                       <span class="box-readmore">
-                                          Learn More
-                                       </span>
-                                    </div>
-                                 </div>
-                              </a>
-                           </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>C|EH Practical is a six-hour, rigorous exam that requires you to demonstrate the application of ethical hacking techniques such as threat vector identification, network scanning, OS detection, vulnerability analysis, system hacking, web app hacking, etc</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                     </div>
-                  </div>
-                     <!--  -->
-                  </div>
-                  <!-- box 1 end -->
-               </div>
-               <!-- slider 1 end -->
-               <!-- slider 2  -->
-               <div class="ser-slider2">
-                  <!-- box 1 start -->
-                  <div id="navigation-count15" class="count-nav-box couter-space"></div>
-                  <div id="ser-demo16" class="owl-carousel owl-theme indu-moblie">
-                     <!--  -->
-                     <div class="item">
-                          <div class="mrgn-btm-iconbx">
-                              <a href="{{route('l3-template')}}">
-                                 <div class="iconbox">
-                                    <div class="box-header">
-                                       <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                       <h4 class="box-title">Certified Network Defender (CND)</h4>
-                                    </div>
-                                    <div class="box-content" id="clr-learn">
-                                       <div class="box-content-p">
-                                          <p>Certified Network Defender (CND) is a vendor-neutral, hands-on, instructor-led comprehensive network security certification training program. It is a skills-based, lab intensive program based</p>
-                                       </div>
-                                       <span class="box-readmore">
-                                          Learn More
-                                       </span>
-                                    </div>
-                                 </div>
-                              </a>
-                           </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker (CEH V10)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                     <!--  -->
-                     <div class="item">
-                        <div class="mrgn-btm-iconbx">
-                           <a href="{{route('l3-template')}}">
-                              <div class="iconbox">
-                                 <div class="box-header">
-                                    <div class="box-icon pst-listing"><i class="fa fa-cube"></i></div>
-                                    <h4 class="box-title">Certified Ethical Hacker - Practical (CEH Practical)</h4>
-                                 </div>
-                                 <div class="box-content" id="clr-learn">
-                                    <div class="box-content-p">
-                                       <p>C|EH Practical is a six-hour, rigorous exam that requires you to demonstrate the application of ethical hacking techniques such as threat vector identification, network scanning, OS detection, vulnerability analysis, system hacking, web app hacking, etc</p>
-                                    </div>
-                                    <span class="box-readmore">
-                                       Learn More
-                                    </span>
-                                 </div>
-                              </div>
-                           </a>
-                     </div>
-                  </div>
-                     <!--  -->
-                  </div>
-                  <!-- box 1 end -->
-               </div>
-               <!-- slider 2 end -->
-            </div>
+           
             <!--box 6 end  -->
          </section>
          <!-- mobile end -->
