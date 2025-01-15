@@ -78,9 +78,13 @@
                     enctype="multipart/form-data">
                     @csrf
                     <fieldset class="name">
-                        <div class="body-title">Category Name <span class="tf-color-1">*</span></div>
-                        <input class="flex-grow" type="text" placeholder="Category Name" name="name" tabindex="0"
-                            value="" aria-required="true" required="">
+                        <div class="body-title">Select Category <span class="tf-color-1">*</span></div>
+                        <select class="flex-grow" name="category_id" tabindex="0" required>
+                            <option value="" disabled selected>Select a category</option>
+                            @foreach ($categories as $category)
+                                <option value="{{ $category->id }}">{{ $category->name }}</option>
+                            @endforeach
+                        </select>
                     </fieldset>
 
                     <fieldset>

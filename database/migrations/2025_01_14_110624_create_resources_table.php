@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('resources', function (Blueprint $table) {
             $table->id();
             $table->integer('category_id');
-            $table->text('description'); // Use text for long content
+            $table->longText('description'); // Use text for long content
             $table->string('images');
             $table->timestamps();
         });
