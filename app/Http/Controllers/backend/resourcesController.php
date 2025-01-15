@@ -13,14 +13,45 @@ use Intervention\Image\Laravel\Facades\Image;
 class resourcesController extends Controller
 {
 
-    public function index()
-    {
-        // Retrieve all resources, ordered by ID in descending order, and paginate them with 10 records per page
-        $resources = Resource::with('category')->orderBy('id', 'DESC')->paginate(10);        // dd($resources);
+    // public function index()
+    // {
+    //     // Retrieve all resources, ordered by ID in descending order, and paginate them with 10 records per page
+    //     $resources = Resource::with('category')->orderBy('id', 'DESC')->paginate(10);        // dd($resources);
 
-        // Return the 'index' view with the resources data passed as a variable
-        return view('backend.resources.index', compact('resources'));
+    //     // Return the 'index' view with the resources data passed as a variable
+    //     return view('backend.resources.index', compact('resources'));
+    // }
+
+    public function index()
+{
+    // Retrieve resources with their related category, ordered by ID, and paginated
+    $resources = Resource::with('category')->orderBy('id', 'DESC')->paginate(10);
+
+    // Process descriptions for each resource
+    foreach ($resources as $resource) {
+        // Add the short description attribute for each resource
+        $resource->short_description = $this->getShortDescription($resource->description);
+        // dd($resource->short_description);
     }
+
+    // Return the 'index' view with resources data
+    return view('backend.resources.index', compact('resources'));
+}
+
+public function getShortDescription($description)
+{
+    // Remove HTML tags and split the description into words
+    $words = explode(' ', strip_tags($description));  
+
+    // If there are more than 10 words, truncate and add "..."
+    if (count($words) > 19) {
+    //    dd(implode(' ', array_slice($words, 0, 19)) . '...');
+        return implode(' ', array_slice($words, 0, 19)) . '...';
+    }
+
+    return implode(' ', $words);  // Return as is if less than or equal to 10 words
+}
+
 
     public function create()
     {
