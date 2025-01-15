@@ -602,34 +602,43 @@
                         {{-- </div> --}}
 
 
+
                         <div class="wpb_text_column wpb_content_element">
-                            <!-- Loop through all categories -->
                             @foreach ($categories as $category)
                                 <div class="wpb_wrapper rsp" id="{{ strtolower(str_replace(' ', '-', $category->name)) }}">
-                                    <!-- Display the category name -->
                                     <div class="title-button">
                                         <h3 class="style1">
                                             <i class="fa fa-2x fa-file"></i> {{ $category->name }}
                                         </h3>
                                     </div>
-                        
                                     <div class="carousel-wrap">
                                         <div class="owl-carousel1 owl-carousel owl-theme">
-                                            <!-- Loop through the resources for each category -->
+                                            <!-- Check if category has resources -->
                                             @forelse ($category->resources as $resource)
-                                                <div class="item">
-                                                    <a href="{{ route('resources-view', $resource->id) }}" tabindex="-1">
-                                                        <div class="card_wrapper">
-                                                            <div class="card_img">
-                                                                <!-- Display the resource image -->
-                                                                <img src="{{ asset('uploads/backend/resources/' . $resource->images) }}" 
-                                                                     class="img-fluid" alt="{{ $resource->title }}">
-                                                            </div>
+                                                @php
+                                                    // Ensure the 'images' field is not empty and split by comma if necessary
+                                                    $images = !empty($resource->images) ? explode(',', $resource->images) : [];
+                                                @endphp
+                        
+                                                <!-- If there are images -->
+                                                @if (count($images) > 0)
+                                                    <!-- Check if there's a single image or multiple images -->
+                                                    @foreach ($images as $image)
+                                                        <div class="item">
+                                                            <a href="{{ route('resources-view', $resource->id) }}" tabindex="-1">
+                                                                <div class="card_wrapper">
+                                                                    <div class="card_img">
+                                                                        <img src="{{ asset('uploads/backend/resources/' . $image) }}" 
+                                                                             class="img-fluid" alt="{{ $resource->title }}">
+                                                                    </div>
+                                                                </div>
+                                                            </a>
                                                         </div>
-                                                    </a>
-                                                </div>
+                                                    @endforeach
+                                                @endif
+                        
                                             @empty
-                                                <!-- Message if there are no resources for this category -->
+                                                <!-- No resources available for this category -->
                                                 <p>No resources available for this category.</p>
                                             @endforelse
                                         </div>
@@ -697,7 +706,7 @@
                             </div>
                             <div class="over-lay">
                                  
-                               @foreach ($categories as $category)
+                               @foreach ($trendings as $category)
     @foreach ($category->resources as $resource)
         @php
             $images = explode(',', $resource->images); // Split images by comma
