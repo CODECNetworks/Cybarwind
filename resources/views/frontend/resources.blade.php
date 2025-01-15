@@ -43,7 +43,7 @@
 						</ul> --}}
 
                         <ul class="slider resocues owl-carousel owl-theme" id="resocues-menu">
-                            @foreach ($categories as $category)
+                            @foreach ($categories1 as $category)
                                 <li><a href="#{{ strtolower(str_replace(' ', '-', $category)) }}">{{ $category }}</a>
                                 </li>
                             @endforeach
@@ -603,42 +603,45 @@
 
 
                         <div class="wpb_text_column wpb_content_element">
+                            <!-- Loop through all categories -->
                             @foreach ($categories as $category)
-                                <div class="wpb_wrapper rsp" id="{{ strtolower(str_replace(' ', '-', $category)) }}">
+                                <div class="wpb_wrapper rsp" id="{{ strtolower(str_replace(' ', '-', $category->name)) }}">
+                                    <!-- Display the category name -->
                                     <div class="title-button">
-                                        <h3 class="style1"><i class="fa fa-2x fa-file"></i>{{ $category }}</h3>
+                                        <h3 class="style1">
+                                            <i class="fa fa-2x fa-file"></i> {{ $category->name }}
+                                        </h3>
                                     </div>
+                        
                                     <div class="carousel-wrap">
-                                        <div
-                                            class="owl-carousel1 owl-carousel owl-theme">
-                                            <!-- Add your dynamic items here -->
-                                            <div class="item">
-                                                <a href="{{ route('resources-view') }}" tabindex="-1">
-                                                    <div class="card_wrapper">
-                                                        <div class="card_img">
-                                                            <div class="bottom_strip d-sm-block">
-                                                                <span class="text_bottom_strip d-sm-block pull-left">
-                                                                    <span>ARTICLE</span>
-                                                                </span>
-                                                                <span class="text_bottom_strip d-sm-block pull-right">
-                                                                    <span>21 Views </span>
-                                                                </span>
+                                        <div class="owl-carousel1 owl-carousel owl-theme">
+                                            <!-- Loop through the resources for each category -->
+                                            @forelse ($category->resources as $resource)
+                                                <div class="item">
+                                                    <a href="{{ route('resources-view', $resource->id) }}" tabindex="-1">
+                                                        <div class="card_wrapper">
+                                                            <div class="card_img">
+                                                                <!-- Display the resource image -->
+                                                                <img src="{{ asset('uploads/backend/resources/' . $resource->images) }}" 
+                                                                     class="img-fluid" alt="{{ $resource->title }}">
                                                             </div>
-                                                            <img src="assets/images/vapt-services.jpg"
-                                                                class="img-fluid" alt="t1">
                                                         </div>
-                                                        <div class="card-caption">
-                                                            <p class="sub-heading">ZXCSDFS</p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <!-- More items can be added dynamically -->
+                                                    </a>
+                                                </div>
+                                            @empty
+                                                <!-- Message if there are no resources for this category -->
+                                                <p>No resources available for this category.</p>
+                                            @endforelse
                                         </div>
                                     </div>
                                 </div>
                             @endforeach
                         </div>
+                        
+                        
+                        
+                        
+                        
 
                     </div>
 
@@ -693,23 +696,38 @@
                                 <h4>Trending Resources</h4>
                             </div>
                             <div class="over-lay">
-                                <div class="entry-wrapper row">
-                                    <div class="entry-cover col-sm-4 col-xs-4">
-                                        <a href="{{ route('resources-view') }}"><img src="assets/images/vapt-services.jpg"
-                                                class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-                                    <div class="col-sm-8">
-                                        <div class="entry-header">
-                                            <p><i class="fa fa-caret-right" aria-hidden="true"
-                                                    style="color:green;"></i>&nbsp;
-                                                <a href="{{ route('resources-view') }}">python</a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <hr>
-                                <div class="entry-wrapper row">
+                                 
+                               @foreach ($categories as $category)
+    @foreach ($category->resources as $resource)
+        @php
+            $images = explode(',', $resource->images); // Split images by comma
+        @endphp
+
+        @if(count($images) >= 1)
+            <div class="entry-wrapper row">
+                <div class="entry-cover col-sm-4 col-xs-4">
+                    <a href="{{ route('resources-view', $resource->id) }}">
+                        <img src="{{ asset('uploads/backend/resources/' . $images[0]) }}" class="img-fluid" alt="{{ $resource->title }}">
+                    </a>
+                </div>
+                <div class="col-sm-8">
+                    <div class="entry-header">
+                        <p>
+                            <i class="fa fa-caret-right" aria-hidden="true" style="color:green;"></i>&nbsp;
+                            <a href="{{ route('resources-view', $resource->id) }}">{{ $category->name }}</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <hr>
+        @endif
+    @endforeach
+@endforeach
+
+
+
+                              
+                                {{-- <div class="entry-wrapper row">
                                     <div class="entry-cover col-sm-4 col-xs-4">
                                         <a href="{{ route('resources-view') }}"><img src="assets/images/vapt-services.jpg"
                                                 class="img-fluid" alt="">
@@ -871,7 +889,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <hr>
+                                <hr> --}}
                             </div>
                         </div>
                     </div>
