@@ -51,11 +51,11 @@
 
                         <!-- control arrows -->
                         <!-- <div class="prev">
-						<i class='fa fa-caret-left'></i>
-						</div>
-						<div class="next">
-						<i class='fa fa-caret-right'></i>
-         				 </div> -->
+          <i class='fa fa-caret-left'></i>
+          </div>
+          <div class="next">
+          <i class='fa fa-caret-right'></i>
+             </div> -->
                         <!--  -->
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                     <div class="col-sm-9">
 
                         {{-- <div class="wpb_text_column wpb_content_element"> --}}
-                            {{-- <div class="wpb_wrapper rbg1 rsp" id="ps">
+                        {{-- <div class="wpb_wrapper rbg1 rsp" id="ps">
                                 <div class="title-button ">
                                     <h3 class="style1"><i class="fa fa-2x fa-file"></i>Professional Services</h3>
                                 </div>
@@ -447,8 +447,8 @@
                                 </div>
                             </div> --}}
 
-                            <!--  -->
-                            {{-- <div class="wpb_wrapper rbg6 rsp" id="career">
+                        <!--  -->
+                        {{-- <div class="wpb_wrapper rbg6 rsp" id="career">
                                 <div class="title-button">
                                     <h3 class="style1"><i class="fa fa-2x fa-file"></i>Career</h3>
                                 </div>
@@ -523,8 +523,8 @@
                                 </div>
                             </div> --}}
 
-                            <!-- data sc start -->
-                            {{-- <div class="wpb_wrapper rbg1 rsp" id="ds">
+                        <!-- data sc start -->
+                        {{-- <div class="wpb_wrapper rbg1 rsp" id="ds">
                                 <div class="title-button">
                                     <h3 class="style1"><i class="fa fa-2x fa-file"></i>Data Science</h3>
                                 </div>
@@ -598,41 +598,47 @@
                                     <div id="navigation-count15" class="count-nav-box"></div>
                                 </div>
                             </div> --}}
-                            <!-- data sc end  -->
+                        <!-- data sc end  -->
                         {{-- </div> --}}
 
 
-						<div class="wpb_text_column wpb_content_element">
-							@foreach ($categories as $category)
-								<div class="wpb_wrapper rsp" id="{{ strtolower(str_replace(' ', '-', $category)) }}">
-									<div class="title-button">
-										<h3 class="style1"><i class="fa fa-2x fa-file"></i>{{ $category }}</h3>
-									</div>
-									<div class="carousel-wrap">
-										<div class="owl-carousel owl-carousel owl-theme">
-											<!-- Add your dynamic items here -->
-											<div class="item">
-												<a href="{{ route('resources-view') }}" tabindex="-1">
-													<div class="card_wrapper">
-														<div class="card_img">
-															<div class="bottom_strip d-sm-block">
-																<span class="text_bottom_strip d-sm-block pull-left"><span>ARTICLE</span></span>
-																<span class="text_bottom_strip d-sm-block pull-right"><span>21 Views</span></span>
-															</div>
-															<img src="assets/images/vapt-services.jpg" class="img-fluid" alt="t1">
-														</div>
-														<div class="card-caption">
-															<p class="sub-heading">ZXCSDFS</p>
-														</div>
-													</div>
-												</a>
-											</div>
-											<!-- More items can be added dynamically -->
-										</div>
-									</div>
-								</div>
-							@endforeach
-						</div>
+                        <div class="wpb_text_column wpb_content_element">
+                            @foreach ($categories as $category)
+                                <div class="wpb_wrapper rsp" id="{{ strtolower(str_replace(' ', '-', $category)) }}">
+                                    <div class="title-button">
+                                        <h3 class="style1"><i class="fa fa-2x fa-file"></i>{{ $category }}</h3>
+                                    </div>
+                                    <div class="carousel-wrap">
+                                        <div
+                                            class="owl-carousel1 owl-carousel owl-theme">
+                                            <!-- Add your dynamic items here -->
+                                            <div class="item">
+                                                <a href="{{ route('resources-view') }}" tabindex="-1">
+                                                    <div class="card_wrapper">
+                                                        <div class="card_img">
+                                                            <div class="bottom_strip d-sm-block">
+                                                                <span class="text_bottom_strip d-sm-block pull-left">
+                                                                    <span>ARTICLE</span>
+                                                                </span>
+                                                                <span class="text_bottom_strip d-sm-block pull-right">
+                                                                    <span>21 Views </span>
+                                                                </span>
+                                                            </div>
+                                                            <img src="assets/images/vapt-services.jpg"
+                                                                class="img-fluid" alt="t1">
+                                                        </div>
+                                                        <div class="card-caption">
+                                                            <p class="sub-heading">ZXCSDFS</p>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!-- More items can be added dynamically -->
+                                        </div>
+                                    </div>
+                                </div>
+                            @endforeach
+                        </div>
 
                     </div>
 
@@ -689,8 +695,8 @@
                             <div class="over-lay">
                                 <div class="entry-wrapper row">
                                     <div class="entry-cover col-sm-4 col-xs-4">
-                                        <a href="{{ route('resources-view') }}"><img
-                                                src="assets/images/vapt-services.jpg" class="img-fluid" alt="">
+                                        <a href="{{ route('resources-view') }}"><img src="assets/images/vapt-services.jpg"
+                                                class="img-fluid" alt="">
                                         </a>
                                     </div>
                                     <div class="col-sm-8">
@@ -705,8 +711,8 @@
                                 <hr>
                                 <div class="entry-wrapper row">
                                     <div class="entry-cover col-sm-4 col-xs-4">
-                                        <a href="{{ route('resources-view') }}"><img
-                                                src="assets/images/vapt-services.jpg" class="img-fluid" alt="">
+                                        <a href="{{ route('resources-view') }}"><img src="assets/images/vapt-services.jpg"
+                                                class="img-fluid" alt="">
                                         </a>
                                     </div>
                                     <div class="col-sm-8 col-xs-8">
