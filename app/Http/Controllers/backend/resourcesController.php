@@ -60,14 +60,12 @@ class resourcesController extends Controller
 
                 // Generate thumbnail image
                 $this->GenerateResourceThumbnailImage($image, $file_name);
-                $resource->images = $file_name;
+                $resource->images = $file_name;   
+                 // Save the resource to the database     
+         $resource->save();
+         return redirect()->route('resources.list')->with('success','Record has been added successfully !');
             }
 
-            // Save the resource to the database
-            $resource->save();
-
-            // Redirect with success message
-            return redirect()->route('resources.list')->with('success', 'Record has been added successfully!');
         } catch (\Exception $e) {
             // Catch any exceptions and log the error
             return redirect()->back()->with('error', 'An error occurred while adding the resource: ' . $e->getMessage());
@@ -79,10 +77,43 @@ class resourcesController extends Controller
         $destinationPath = public_path('uploads/backend/resources/');
 
         // Open the image and create a thumbnail
-        $img = Image::make($image->path());
-        $img->cover(124, 124, "top");
-        $img->resize(124, 124, function ($constraint) {
+        $destinationPath=public_path('uploads/backend/resources/');
+        $img=Image::read($image->path());
+        $img->cover(124,124,"top");
+        $img->resize(124,124 ,function($constraint){
             $constraint->aspectRatio();
-        })->save($destinationPath . $file_name);
+        })->save($destinationPath.''.$file_name);
     }
+
+    // public function store(Request $request)
+    // {        
+    //     // dd($request->all());
+    //      $request->validate([
+    //           'category_id' => 'required',
+    //           'description' => 'required',
+    //           'image' => 'mimes:png,jpg,jpeg|max:2048'
+    //      ]);
+    
+    //      $resource = new Resource();
+    //      $resource->category_id = $request->category_id;
+    //      $resource->description = $request->description;
+    //      $image = $request->file('image');
+    //      $file_extention = $request->file('image')->extension();
+    //      $file_name = carbon::now()->timestamp . '.' . $file_extention;    
+    //      $this->GenerateResourceThumbailImage($image, $file_name);
+    //      $resource->images = $file_name;        
+    //      $resource->save();
+    //      return redirect()->route('resources.list')->with('success','Record has been added successfully !');
+    // }
+    
+    // public function GenerateResourceThumbailImage($image, $file_name){
+    
+    //     $destinationPath=public_path('uploads/backend/resources/');
+    //     $img=Image::read($image->path());
+    //     $img->cover(124,124,"top");
+    //     $img->resize(124,124 ,function($constraint){
+    //         $constraint->aspectRatio();
+    //     })->save($destinationPath.''.$file_name);
+    
+    // }
 }
